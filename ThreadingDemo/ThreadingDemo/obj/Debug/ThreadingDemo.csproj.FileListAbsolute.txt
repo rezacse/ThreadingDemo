@@ -1,0 +1,9 @@
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\bin\Debug\ThreadingDemo.exe.config
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\bin\Debug\ThreadingDemo.exe
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\bin\Debug\ThreadingDemo.pdb
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.csprojResolveAssemblyReference.cache
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.Form1.resources
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.Properties.Resources.resources
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.GenerateResource.Cache
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.exe
+E:\devResources\_git\ThreadingDemo\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.pdb
